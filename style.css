@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background: #f4f4f4;
+}
+
+button {
+  margin: 10px;
+  padding: 10px 15px;
+  font-size: 1rem;
+}
+
+.new-box {
+  background-color: #dff0d8;
+  border: 1px solid #b2d8b2;
+  padding: 10px;
+  margin-top: 10px;
+}
